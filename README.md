@@ -43,4 +43,4 @@ int main(int argc, const char * argv[]) {
 ```
 ### Результат
 
-![Оптимизация ](img/img1.png)
+![Оптимизация ](img/1.png)
